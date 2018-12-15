@@ -1,0 +1,17 @@
+nav.navbar.navbar-default {
+  margin-bottom: 0;
+}
+
+.navbar {
+  box-shadow: 0 8px 6px -6px lightgrey;
+}
+
+.logo {
+  height: 60px;
+  width: 70px;
+}
+
+h4 {
+  font-family: 'Josefin Sans', sans-serif;
+  text-shadow: 1px 1px darkslategray;
+}
